@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associada a um assembly.
-[assembly: AssemblyTitle("TP_AED_CalculaFormulas")]
+[assembly: AssemblyTitle("TP_AED_CalculaFormula")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TP_AED_CalculaFormulas")]
+[assembly: AssemblyProduct("TP_AED_CalculaFormula")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // O GUID a seguir será destinado à ID de typelib se este projeto for exposto para COM
-[assembly: Guid("d8f930a2-5427-432d-a507-c203024a111d")]
+[assembly: Guid("72f87abd-d2bd-441d-b368-36581067807b")]
 
 // As informações da versão de um assembly consistem nos quatro valores a seguir:
 //

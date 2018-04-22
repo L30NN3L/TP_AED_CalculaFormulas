@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP_AED_CalculaFormula", "TP_AED_CalculaFormula\TP_AED_CalculaFormula.csproj", "{72F87ABD-D2BD-441D-B368-36581067807B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72F87ABD-D2BD-441D-B368-36581067807B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F87ABD-D2BD-441D-B368-36581067807B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F87ABD-D2BD-441D-B368-36581067807B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F87ABD-D2BD-441D-B368-36581067807B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC45A521-C86B-488E-BEE6-4F6F7851C59A}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://grupoaed2018.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TP_AED_CalculaFormula\\TP_AED_CalculaFormula.csproj
+		SccProjectName1 = TP_AED_CalculaFormula
+		SccLocalPath1 = TP_AED_CalculaFormula
+	EndGlobalSection
+EndGlobal
